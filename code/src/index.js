@@ -27,7 +27,7 @@ root.render(
       iure suscipit eius quibusdam rerum molestiae, voluptatibus deleniti fuga
       non.
     </TextExpander>
-    <TextExpander className="bg" btnStyle="bn" nbWordsShown={15}>
+    <TextExpander className="bg" btnStyle="bn" nbWordsShown={15} expand={true}>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia delectus,
       debitis dolor ex dolorem tenetur esse culpa vero officiis pariatur ducimus
       illum eos exercitationem expedita enim excepturi illo. Eum explicabo
